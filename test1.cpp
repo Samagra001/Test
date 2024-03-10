@@ -7,4 +7,5 @@ int main(){
 	cout << "sam" << endl;
 	cout<<"Feature branch"<<endl;
 	cout <<" FIxed"<<endl;
+	cout << "I am  ahead now" << endl;
 }
